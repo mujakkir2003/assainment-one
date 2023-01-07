@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+}
+.size{
+    font-size: 40px;
+}
+/*hrader styles*/
+.text-primary{
+    color: #fff;
+}
+.btn-primary{
+    height: 50px;
+    border-radius: 5px;
+    background: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 15px 35px;
+}
+.container{
+    background-image: url('../images/banner/banner3.png');
+    height: 780px;
+    width: 100%;
+   
+     }
+     /* bannar */
+     .banner{
+       
+      
+        
+        padding: 220px 40px;
+     
+    }
+    
+    .banner-title{
+        font-size: 600;
+        font-size: 45px;
+        color: white;
+    }
+    .banner-sub-title{
+        margin-top: 12px;
+        color: white;
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .nipun{
+        height:590px;
+        height:600px;
+       margin-left:250px;
+     }
+     .list-details{
+       text-align: left;
+       margin-left: 50px;
+       padding: 220px 0px;
+     }
+     .middile{
+        display: flex;
+     }
+      .list-details-title{
+        font-size: 300;
+        font-size: 45px;
+        margin-bottom:15px;
+      }
+     .p-bottom{
+        margin-top: 15px;
+     }
+     .plan-container{
+        display: flex;
+        gap:100px;
+        margin-left:400px;
+
+     }
+     .selection-title {
+        text-align: center;
+        font-weight: 700;
+        font-size: 35px;
+        margin-bottom: 50px;
+     }
+     .section-containar{
+      font-size: 20px;
+      margin-top: 5px;
+      margin-bottom: 10px;
+     }
+     .last-section{
+        display: flex;
+       
+     }
+     .title{
+        text-align: right !important;
+        margin-right: 150px;
+     }
+     .bg-saction{
+        background: #151414;
+        padding: 100px 100px !important;
+         color: #fff;
+     }
+     .bottom-section{
+        align-items: center;
+        margin-top: 100px;
+        margin-left: 100px;
+     }
+     .contact{
+        margin-left: 300px;
+        margin-top: 100px;
+     }
+     .info-description{
+        margin-top: 15px;
+        margin-bottom: 15px;
+     }
+     .extra-section{
+        background-image: url('../images/gradient1.png'),url('../images//watch.png');
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        margin: 100px 290px;
+        margin-left: 400px;
+        padding: 40px !important;
+        border-radius: 7px;
+     }
+     .extra-mid h3{
+        font-size: 30px;
+        color: white;
+        font-weight: 800;
+     }
+     .mid-btn{
+        margin-top: 20px;
+        background-color: white;
+        color: #005FAC;
+        padding: 13px 20px;
+        border: none;
+        border-radius: 5px;
+        font-size: 20px;
+     }
+     .form-container{
+        height: 40px;
+        width: 230px;
+        padding-left: 20px;
+        background-color: #151414;
+        border: 1px solid white;
+        border-radius: 5px;
+        margin-top: 15px;
+     }
+     .last-btn{
+        margin-top: 20px;
+        background-color: 
+        #005FAC;
+      color: white;
+        padding: 13px 20px;
+        border: none;
+        border-radius: 5px;
+        font-size: 15px;
+     }
+     .hundred{
+        display: flex;
+        padding: 20px 200px;
+     }
+     .fifty{
+        width: 50%;
+        display: flex;
+        background-color: aquamarine;
+     }
