@@ -4,7 +4,7 @@
 .size{
     font-size: 40px;
 }
-/*hrader styles*/
+/*header styles*/
 .text-primary{
     color: #fff;
 }
@@ -25,13 +25,8 @@
      }
      /* bannar */
      .banner{
-       
-      
-        
         padding: 220px 40px;
-     
     }
-    
     .banner-title{
         font-size: 600;
         font-size: 45px;
@@ -67,8 +62,7 @@
      .plan-container{
         display: flex;
         gap:100px;
-        margin-left:400px;
-
+        margin-left:400px
      }
      .selection-title {
         text-align: center;
@@ -157,17 +151,22 @@
         display: flex;
         padding: 20px 200px;
       }
-     .fifty{
-        width:80%;
-        display: flex;
-        background-color:#464545;
-        margin-right: 20px;
-        color: white;
-     }
+    
    .backgraound{
       background-color: whitesmoke;
       padding: 100px 100px !important;
       
+   }
+   .fifty{
+      width: 50% !important;
+      padding: 20px;
+      
+      
+   }
+   .in{
+      display: flex;
+      background-color: beige;
+      padding: 30px;
    }
    .end-h3{
       margin-left: 550px;
@@ -175,18 +174,20 @@
       margin-top: 0px;
     }
     .second-p{
-      margin-top: 10px;
+      
+      margin-left:50px;
     }
    .end-header{
-      
-         width:70%;
+         height: 300px;
+         width:50%;
          display: flex;
-         background-color:#151414;
+         background-color: #464545;
          margin-right: 20px;
          color: white;
        }
-       .pic{
-         height:150px;
-         width:300px; 
+     
+       .second-n{
+         margin-top: 100px;
+      margin-left:50px;
        }
        /* end */
