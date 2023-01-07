@@ -83,7 +83,7 @@
      }
      .last-section{
         display: flex;
-        /* section done */
+        /* section */
        
      }
      .title{
@@ -152,15 +152,15 @@
         font-size: 15px;
      }
 
-     /* jjj */
+     /*done */
      .hundred{
         display: flex;
         padding: 20px 200px;
-     }
+      }
      .fifty{
-        width:70%;
+        width:80%;
         display: flex;
-        background-color:#151414;
+        background-color:#464545;
         margin-right: 20px;
         color: white;
      }
@@ -189,3 +189,4 @@
          height:150px;
          width:300px; 
        }
+       /* end */
